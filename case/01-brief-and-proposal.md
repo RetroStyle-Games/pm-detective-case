@@ -16,7 +16,7 @@
 >
 > Thanks, Jina
 
-**Вкладення:** `MansionGarden_ingame_screenshot.png` (скріншот локації з ігрового білду; прев'ю «Основа», див. стор. 11 справи), посилання на референс Lily's Garden ([artstation.com/artwork/v21PEO](https://www.artstation.com/artwork/v21PEO)). Lily's Garden — референс стилю; переходити за посиланням необов'язково.
+**Вкладення:** `MansionGarden_ingame_screenshot.png` (скріншот локації з ігрового білду; прев'ю «Основа»: 00_base_client-screenshot_2021-08-30.webp), посилання на референс Lily's Garden ([artstation.com/artwork/v21PEO](https://www.artstation.com/artwork/v21PEO)). Lily's Garden — референс стилю; переходити за посиланням необов'язково.
 
 ## 2. Технічні вимоги (з брифу)
 - Полотно **2720 × 3700 px** (і даунскейл 1360 × 1850).
